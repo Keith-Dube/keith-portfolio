@@ -22,11 +22,11 @@ Coming soon — will be hosted on **GitHub Pages**.
 ## 📁 Project Structure
 
 /assets
-  /css
-  /js
-  /img
-index.html
-README.md
+  **/css**
+  **/js**
+  **/img**
+**index.html**
+**README.md**
 
 
 ---
