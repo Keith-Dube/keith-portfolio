@@ -177,7 +177,7 @@ nav ul li a:hover::after {
   filter: brightness(55%) contrast(110%);
 }
 
-/* Optional: Gold accent overlay */
+/*Gold accent overlay */
 .hero::before {
   content: '';
   position: absolute;
